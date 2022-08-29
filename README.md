@@ -17,3 +17,6 @@ This repository contains [LCEDA](https://lceda.cn/)([EasyEDA](https://easyeda.co
 ![Symbol](https://user-images.githubusercontent.com/8841957/187245096-4c97384a-d9f2-4a7e-b6d7-eea868b60aa2.png)
 ![Footprint](https://user-images.githubusercontent.com/8841957/187245220-6c4ccb4f-3059-450c-921d-871f183f485c.png)
 ![3DView](https://user-images.githubusercontent.com/8841957/187245714-58b995d1-c4b9-4153-b037-ec78ceb53058.png)
+
+## Documentation
+- [Game Pak Pinout](http://www.hardwarebook.info/Game_Pak)
