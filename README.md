@@ -5,7 +5,7 @@ This repository contains [LCEDA](https://lceda.cn/)([EasyEDA](https://easyeda.co
 
 ## Usage
 
-1. Download `GBACartridge.zip` in [latest release](https://github.com/laqieer/lceda-gamepaks/releases)
+1. Download `GBACartridge.zip` in [latest release](https://github.com/laqieer/lceda-gamepaks/releases/latest)
 1. Open [EasyEDA Pro](https://pro.easyeda.com/editor)
 1. File -> Import -> EasyEDA(Professional)...
 1. Select downloaded .zip file
