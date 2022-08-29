@@ -1,0 +1,106 @@
+{
+    "devices": {
+        "329f52f4071744f0b87de5107143708a": {
+            "project_uuid": "",
+            "creator": {
+                "uuid": "ae686d8a5f12452eb6456d448cba03ad",
+                "username": "laqieer",
+                "nickname": "laqieer",
+                "avatar": "https://u.lceda.cn/images/avatar-default.png?id=f119c61e3d5ce714b4b8"
+            },
+            "description": "GBA Cartridge",
+            "title": "gbacartridge",
+            "tags": {
+                "parent_tag": [],
+                "child_tag": []
+            },
+            "custom_tags": "",
+            "images": [
+                "https://image-pro.lceda.cn/pullimages/5cf53e13bb1543af909888c36d7b95fc.png"
+            ],
+            "attributes": {
+                "Convert to PCB": "yes",
+                "Add into BOM": "no",
+                "Designator": "CART",
+                "Symbol": "c1299c7ba1284658b4490cf2bf7f1013",
+                "Footprint": "56900da799714af59badeaf23455ccd3"
+            },
+            "source": "",
+            "version": 0,
+            "footprint_type": 4,
+            "symbol_type": 2,
+            "updateTime": 0,
+            "createTime": 1661783869,
+            "display_title": "GBACartridge",
+            "created_at": "2022-08-29 22:37:49",
+            "updated_at": "2022-08-29 22:37:49",
+            "ticket": 1,
+            "symbol": {
+                "uuid": "c1299c7ba1284658b4490cf2bf7f1013",
+                "title": "gbacartridge",
+                "display_title": "GBACartridge"
+            },
+            "footprint": {
+                "uuid": "56900da799714af59badeaf23455ccd3",
+                "title": "gbacartridge",
+                "display_title": "GBACartridge"
+            }
+        }
+    },
+    "symbols": {
+        "c1299c7ba1284658b4490cf2bf7f1013": {
+            "creator": {
+                "uuid": "ae686d8a5f12452eb6456d448cba03ad",
+                "username": "laqieer",
+                "nickname": "laqieer",
+                "avatar": "https://u.lceda.cn/images/avatar-default.png?id=f119c61e3d5ce714b4b8"
+            },
+            "description": "",
+            "docType": 2,
+            "tags": {
+                "parent_tag": [],
+                "child_tag": []
+            },
+            "public": true,
+            "source": "",
+            "version": 0,
+            "type": 3,
+            "title": "gbacartridge",
+            "custom_tags": "",
+            "createTime": 1661773223,
+            "updateTime": 0,
+            "created_at": "2022-08-29 19:40:23",
+            "display_title": "GBACartridge",
+            "updated_at": "2022-08-29 19:50:05",
+            "ticket": 3
+        }
+    },
+    "footprints": {
+        "56900da799714af59badeaf23455ccd3": {
+            "creator": {
+                "uuid": "ae686d8a5f12452eb6456d448cba03ad",
+                "username": "laqieer",
+                "nickname": "laqieer",
+                "avatar": "https://u.lceda.cn/images/avatar-default.png?id=f119c61e3d5ce714b4b8"
+            },
+            "description": "",
+            "docType": 4,
+            "tags": {
+                "parent_tag": [],
+                "child_tag": []
+            },
+            "public": true,
+            "source": "",
+            "version": 0,
+            "type": 3,
+            "title": "gbacartridge",
+            "custom_tags": "",
+            "createTime": 1661781576,
+            "updateTime": 0,
+            "created_at": "2022-08-29 21:59:36",
+            "display_title": "GBACartridge",
+            "updated_at": "2022-08-29 22:33:44",
+            "ticket": 7
+        }
+    }
+}
